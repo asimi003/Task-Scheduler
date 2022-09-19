@@ -1,7 +1,8 @@
 # Task-Scheduler
+
 Software Construction and Unit Testing
 
-Description:
+## Description
 
 Implemented the Structural-Composite design pattern as a part of the Task Scheduler and the Creational-Builder design pattern to handle the varying types of tasks.
 
