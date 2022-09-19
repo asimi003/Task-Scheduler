@@ -14,6 +14,10 @@ Used C++, github, PuTTy, and gtest. C++ for an objected oriented programming wor
 
 Created test cases and tested each individual task, classification, builder, and planner class in order to validate the cases. Also tested examples using the planner for undoing tasks. Tasks and classifications are IMMUTABLE in testing.
 
+## Class Diagram
+
+![UMLDiagram](https://user-images.githubusercontent.com/97551999/191020852-72dc20c1-3b03-4e55-83ff-58564e3eb2f1.png)
+
 ## Installation and Usage
 
 The program installation requires someone to be able to call a .out file.
@@ -31,6 +35,9 @@ The program installation requires someone to be able to call a .out file.
   - Simply undos.
 - Exit, exits the program
 
-## Class Diagram
+## Screenshots
 
-![UMLDiagram](https://user-images.githubusercontent.com/97551999/191020852-72dc20c1-3b03-4e55-83ff-58564e3eb2f1.png)
+![1](https://user-images.githubusercontent.com/97551999/191024967-d1d16728-d3ab-4f5c-a74b-bf86256e98c1.png)
+![2](https://user-images.githubusercontent.com/97551999/191024969-40d80610-e7a2-4959-961f-778485d6eb33.png)
+![3](https://user-images.githubusercontent.com/97551999/191024972-a70cf906-8ea6-4a9f-8fd7-954f80a6f463.png)
+![4](https://user-images.githubusercontent.com/97551999/191024974-7aab3a3c-2d13-4068-bd28-8f67a06601ce.png)
